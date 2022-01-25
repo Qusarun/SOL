@@ -1,4 +1,3 @@
-; while(1) to for(;;) ;
 global _start         ; global _start
 section .text         ; section .text
 _start:               ; _start:
